@@ -1,0 +1,3 @@
+ls
+strings data.txt | grep =
+ssh bandit10@localhost

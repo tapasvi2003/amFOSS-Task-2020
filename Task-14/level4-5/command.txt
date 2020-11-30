@@ -1,0 +1,6 @@
+ls
+cd inhere/
+ls
+file ./*
+cat ./-file07
+ssh bandit5@localhost

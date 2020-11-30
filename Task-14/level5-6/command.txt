@@ -1,0 +1,6 @@
+ls
+cd inhere/
+ls
+find . -size 1033c
+cat ./maybehereo7/.file2
+ssh bandit6@localhost

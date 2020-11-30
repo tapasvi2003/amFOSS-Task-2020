@@ -1,0 +1,3 @@
+find / -user bandit7 -group bandit6 -size 33c
+cat /var/lib/dpkg/info/bandit7.password
+ssh bandit7@localhost

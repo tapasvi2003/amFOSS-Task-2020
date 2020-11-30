@@ -1,0 +1,3 @@
+ls
+cat 'spaces in this filename'
+ssh bandit3@localhost

@@ -1,0 +1,6 @@
+ls
+cd inhere/
+ls
+ls -al
+cat .hidden
+ssh bandit4@localhost

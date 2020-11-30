@@ -1,0 +1,3 @@
+ls
+cat readme
+ssh bandit1@localhost

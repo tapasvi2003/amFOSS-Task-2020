@@ -1,0 +1,2 @@
+cat data.txt | sort | uniq -u
+ssh bandit9@localhost
